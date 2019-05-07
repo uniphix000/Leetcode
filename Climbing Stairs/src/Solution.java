@@ -99,15 +99,9 @@ class Solution {
         return c;
     }
 
-    public int climbStairs5(int n)
-    {
-        return 7&1;
-    }
-
-
     public static void main(String[] args) {
         int n=5;
-        System.out.print(new Solution().climbStairs5(n));
+        System.out.print(new Solution().climbStairs1(n));
     }
 }
 
