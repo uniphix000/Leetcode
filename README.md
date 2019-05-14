@@ -1,2 +1,2 @@
 # Leetcode
-i am a little snail but i keep going~
+snail moves slowly but it keeps going.
